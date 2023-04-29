@@ -5,3 +5,7 @@ This repository contains UI design files for various projects. Each project is o
 # Getting Started
 
 To access the UI design files, simply clone this repository to your local machine using the following command:
+
+```
+git clone https://github.com/abhijeetsalve01/UI_Design.git
+```
