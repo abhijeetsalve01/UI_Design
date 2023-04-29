@@ -34,3 +34,7 @@ If you have any questions or issues with this repository, please feel free to co
 
 # JobBoard
 ![Home Screen](./JobBoard.com/JobBoard_1.PNG)
+![Home Screen](./JobBoard.com/JobBoard_2.PNG)
+![Home Screen](./JobBoard.com/JobBoard_3.PNG)
+![Home Screen](./JobBoard.com/JobBoard_4.PNG)
+![Home Screen](./JobBoard.com/JobBoard_5.PNG)
