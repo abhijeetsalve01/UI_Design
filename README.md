@@ -42,8 +42,8 @@ If you have any questions or issues with this repository, please feel free to co
 # TechJournal
 
 ![Home Screen](./TechJournal.com/TechJournal_1.PNG)
-[Home Screen](./TechJournal.com/TechJournal_1.PNG)
-[SignUp](./TechJournal.com/TechJournal_1.PNG)
-[LogIn](./TechJournal.com/TechJournal_1.PNG)
+![Home Screen](./TechJournal.com/TechJournal_2.PNG)
+![SignUp](./TechJournal.com/TechJournal_3.PNG)
+![LogIn](./TechJournal.com/TechJournal_4.PNG)
 
 
