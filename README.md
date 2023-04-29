@@ -28,4 +28,4 @@ This repository is licensed under the MIT License, which means that you are free
 # Contact
 
 
-If you have any questions or issues with this repository, please feel free to contact us at salveabhijeet01@gmail.com. We welcome your feedback and contributions!
+If you have any questions or issues with this repository, please feel free to contact us at salveabhijeet01@gmail.com.
