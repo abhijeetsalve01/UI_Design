@@ -6,6 +6,6 @@ This repository contains UI design files for various projects. Each project is o
 
 To access the UI design files, simply clone this repository to your local machine using the following command:
 
-```
+```ruby
 git clone https://github.com/abhijeetsalve01/UI_Design.git
 ```
