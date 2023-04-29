@@ -34,7 +34,16 @@ If you have any questions or issues with this repository, please feel free to co
 
 # JobBoard
 ![Home Screen](./JobBoard.com/JobBoard_1.PNG)
-![Home Screen](./JobBoard.com/JobBoard_2.PNG)
-![Home Screen](./JobBoard.com/JobBoard_3.PNG)
-![Home Screen](./JobBoard.com/JobBoard_4.PNG)
-![Home Screen](./JobBoard.com/JobBoard_5.PNG)
+![JobSector](./JobBoard.com/JobBoard_2.PNG)
+![Companies](./JobBoard.com/JobBoard_3.PNG)
+![JobsCategory](./JobBoard.com/JobBoard_4.PNG)
+![Footer](./JobBoard.com/JobBoard_5.PNG)
+
+# TechJournal
+
+![Home Screen](./TechJournal.com/TechJournal_1.PNG)
+[Home Screen](./TechJournal.com/TechJournal_2.PNG)
+[SignUp](./TechJournal.com/TechJournal_3.PNG)
+[LogIn](./TechJournal.com/TechJournal_4.PNG)
+
+
