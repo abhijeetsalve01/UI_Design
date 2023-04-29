@@ -9,3 +9,5 @@ To access the UI design files, simply clone this repository to your local machin
 ```ruby
 git clone https://github.com/abhijeetsalve01/UI_Design.git
 ```
+
+Once you've cloned the repository, you can open the design files in your preferred design software (such as Adobe XD or Figma) to view and edit them.
